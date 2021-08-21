@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash Pandey</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-- 🔭 I’m currently working in [Gartner](https://www.gartner.com)
+- 🔭 I’m currently working in [Gartner](https://www.gartner.com) as Software Engineer
 
 - 👨‍💻 I’m currently learning **React.js**
 
@@ -10,6 +10,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/akash-pandey97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash-pandey97" height="30" width="40" /></a>
+<a href="https://fb.com/akashp2202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akashp2202" height="30" width="40" /></a>
+<a href="https://instagram.com/_artistic.ak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_artistic.ak" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pandeyakash599" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pandeyakash599" height="30" width="40" /></a>
 </p>
 
